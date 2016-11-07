@@ -6,7 +6,13 @@
 
 
 
-
+GIT, 
+git init
+git commit -m "first time commit"
+git remote add origin https://github.com/ankurmundhada/getacode.git
+git pull origin master
+git push origin master
+git push -u origin master
 
 
 
