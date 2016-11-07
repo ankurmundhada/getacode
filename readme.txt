@@ -12,9 +12,10 @@ git commit -m "first time commit"
 git remote add origin https://github.com/ankurmundhada/getacode.git
 git pull origin master
 git push origin master
-git push -u origin master
 
-
+to add file chnages to git, 
+git commit readme.txt -m "adding GIT commands"
+git push origin master
 
 
 Apache configrations, 
